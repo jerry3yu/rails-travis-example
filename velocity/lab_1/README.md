@@ -14,6 +14,7 @@ This is Lab 1 for Velocity 2014 Tutorial: Battle-tested Code without the Battle.
 * We have a couple prebaked Gauntlt attacks for you to use and they are namespaced in the Rakefile for the repo. Read through these files. [Rakefile](https://github.com/secure-pipeline/rails-travis-example/blob/master/Rakefile), [assert_ports.attack](https://github.com/secure-pipeline/rails-travis-example/blob/master/test/attacks/assert-ports.attack), [ssl.attack](https://github.com/secure-pipeline/rails-travis-example/blob/master/test/attacks/ssl.attack).
 * In your forked repo, check the main `.travis.yml` and replace it with the the content from `lab_1/.travis.yml`
 * Commit and watch your build status.
+[![Build Status](https://travis-ci.org/jerry3yu/rails-travis-example.svg)](https://travis-ci.org/jerry3yu/rails-travis-example)
 
 ## More information
 * [The Lifecycle of a Travis CI Build](http://docs.travis-ci.com/user/build-lifecycle/)
